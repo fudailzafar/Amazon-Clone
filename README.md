@@ -6,4 +6,3 @@ Welcome to the Amazon India Clone project! This repository replicates a basic Am
 - **Responsive Product Grid**: Products are displayed in a grid format that adjusts to screen sizes.
 - **Product Cards**: Each product has an image, title, price, and buttons for "Add to Cart" and "Buy Now."
 - **Header Navigation**: A mock navigation bar similar to Amazon India's, including categories and a search bar.
-- **Mobile-Friendly Design**: Optimized for viewing on different devices, with a flexible layout.
