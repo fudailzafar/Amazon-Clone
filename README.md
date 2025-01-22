@@ -14,11 +14,3 @@ This project is a basic clone of the Amazon e-commerce website built with **HTML
   
 ---
 
-## Technologies Used
-
-- **HTML**: Structure of the website and web pages.
-- **CSS**: Styling and layout for the website.
-- **JavaScript**: Dynamic behavior like adding products to the cart and updating cart quantities.
-
----
-
