@@ -12,5 +12,4 @@ This project is a basic clone of the Amazon e-commerce website built with **HTML
 - **Responsive Layout**: Optimized for mobile and desktop views.
 - **Search Bar**: Simulate searching for products.
   
----
 
